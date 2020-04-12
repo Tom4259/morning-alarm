@@ -131,7 +131,7 @@ def RFID_alarm(schoolOut):
             
             END_PROGRAM()
             
-        elif id != 870544709358:
+        else:
             
             #m.setvolume(62)
                     
