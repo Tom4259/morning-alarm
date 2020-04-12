@@ -4,6 +4,9 @@ All this code is original.
 
 This project consists of RFID, RGB LED, I2C LCD
 
+Copy this code by:
+git clone https://github.com/Tom4259/morning-alarm.git
+
 # RFID:
 SDA -- GPIO 8 - CEO
 
