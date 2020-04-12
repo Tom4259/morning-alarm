@@ -98,7 +98,7 @@ def RFID_alarm(schoolOut):
         print("Checking tag...")
         
         
-        if id == 870544709358:
+        if id == <YOUR RFID CHIP PIN>:
             
             
             
