@@ -4,7 +4,7 @@ All this code is original.
 
 This project consists of RFID, RGB LED, I2C LCD
 
-RFID:
+[RFID:]
 
 
 SDA -- GPIO 8 - CEO
